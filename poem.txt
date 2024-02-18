@@ -1,6 +1,8 @@
 new !?this is poem
 
 red 
+
+..
 green
 blue
 an pinkk
